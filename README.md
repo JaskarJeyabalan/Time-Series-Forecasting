@@ -47,15 +47,6 @@ The models are evaluated using real-world time series data such as **electricity
 * The dataset consists of **time-ordered electricity load values**
 * Frequency: Hourly
 * Type: Univariate time series
-* Target variable: `load`
-
-Example format:
-
-```
-date,load
-2019-01-01 00:00,1234
-2019-01-01 01:00,1250
-```
 
 ---
 
