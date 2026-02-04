@@ -66,13 +66,7 @@ pip install numpy pandas matplotlib scikit-learn torch
 electricity_load.csv
 ```
 
-2. Ensure the CSV contains a column named:
-
-```
-load
-```
-
-3. Run the script:
+2. Run the script:
 
 ```bash
 Time Series Forecasting.py
@@ -186,6 +180,7 @@ This project demonstrates that incorporating an attention mechanism into deep le
 ## 👤 Author
 
 **Name:** Jaskar Jeyabalan S
+
 **Email:** [jaskarjeyabalan@gmail.com](mailto:jaskarjeyabalan@gmail.com)
 
 ---
